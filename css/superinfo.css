@@ -1,0 +1,11 @@
+.superinfo-bg{
+  background-color: #122AB2;
+}
+
+.superinfo{
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  padding: 20px;
+  color: #fff;
+}
